@@ -1,5 +1,5 @@
 from django.apps import AppConfig
 
 
-class Api_yamdbConfig(AppConfig):
+class ApiYamdbConfig(AppConfig):
     name = 'api_yamdb'
