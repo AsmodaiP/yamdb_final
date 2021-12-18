@@ -117,4 +117,4 @@ POST: [/api/v1/auth/token/](http://127.0.0.1:8000/api/v1/auth/token/)
 
 Были использованы следующие технологии: Django 3.05, Django Rest Framework 3.12.4, gunicorn 20.0.4, python 3.8.
 
-![example workflow](https://github.com/AsmodaiP/yamdb_final/actions/workflows/yamb_workflow.yml/badge.svg)
+![example workflow](https://github.com/AsmodaiP/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
