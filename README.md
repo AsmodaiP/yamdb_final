@@ -116,3 +116,5 @@ POST: [/api/v1/auth/token/](http://127.0.0.1:8000/api/v1/auth/token/)
 Авторами проекта являются: [Дмитрий Перегуда](https://github.com/AsmodaiP), [Сергей Жаров](https://github.com/zhss1983), [Иван Осянин](https://github.com/IvanOsyaninhttps://github.com/IvanOsyanin).
 
 Были использованы следующие технологии: Django 3.05, Django Rest Framework 3.12.4, gunicorn 20.0.4, python 3.8.
+
+[![yamdb_workflow Actions Status](https://github.com/AsmodaiP//workflows/yamdb_final/badge.svg)](https://github.com/{userName}/{repoName}/actions)
