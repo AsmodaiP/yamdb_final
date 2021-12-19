@@ -16,7 +16,7 @@
 жанр из списка предустановленных (например, «Сказка», «Рок» или «Артхаус»).
 Новые жанры также может создавать только администратор.
 
-Проект доступен по [ссылке](http://pasmodaiyamdb.tk/http://pasmodaiyamdb.tk/).
+Проект доступен по [ссылке](http://pasmodaiyamdb.tk/).
 
 ## Запуск проекта:
 
@@ -115,8 +115,8 @@ POST: [/api/v1/auth/token/](http://127.0.0.1:8000/api/v1/auth/token/)
 - Комментарии:
   [/api/v1/titles/{title_id}/reviews/{review_id}/comments/](http://127.0.0.1:8000/api/v1/titles/1/reviews/1/comments/)
 
-Авторами проекта являются: [Дмитрий Перегуда](https://github.com/AsmodaiP), [Сергей Жаров](https://github.com/zhss1983), [Иван Осянин](https://github.com/IvanOsyaninhttps://github.com/IvanOsyanin).
+Авторами проекта являются: [Дмитрий Перегуда](https://github.com/AsmodaiP), [Сергей Жаров](https://github.com/zhss1983), [Иван Осянин](https://github.com/IvanOsyanin).
 
 Были использованы следующие технологии: Django 3.05, Django Rest Framework 3.12.4, gunicorn 20.0.4, python 3.8.
 
-![example workflow](https://github.com/AsmodaiP/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![yamdb_workflow](https://github.com/AsmodaiP/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
